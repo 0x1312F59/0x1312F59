@@ -3,16 +3,13 @@ Building, experimenting, and shipping products across Web2, Web3, and IoT.
 ### Tech Stack
 
 <p align="center">
-  <img width="48" height="48" title="JavaScript" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" />
-  <img width="48" height="48" title="Next.js" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" />
-  <img width="48" height="48" title="Node.js" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" />
-  <img width="48" height="48" title=".NET" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png" />
   <img width="48" height="48" title="Python" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" />
   <img width="48" height="48" title="Rust" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" />
+  <img width="48" height="48" title="JavaScript" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" />
   <img width="48" height="48" title="Solidity" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/solidity.png" />
-  <img width="48" height="48" title="Arduino" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png" />
-  <img width="48" height="48" title="Docker" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" />
+  <img width="48" height="48" title=".NET" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png" />
 </p>
+
 ### My Product
 
 | Product | Description |
