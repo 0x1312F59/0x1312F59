@@ -1,4 +1,6 @@
-Building, experimenting, and shipping products across Web2, Web3, and IoT.
+# Hi there 👋
+
+> Building, experimenting, and shipping products across Web2, Web3, and IoT.
 
 ### Tech Stack
 
@@ -10,24 +12,31 @@ Building, experimenting, and shipping products across Web2, Web3, and IoT.
   <img width="48" height="48" title=".NET" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png" />
 </p>
 
-### My Product
+---
+
+## 🚀 Products
 
 | Product | Description |
 |---|---|
-| [Mortexa](https://codecanyon.net/item/mortexa-mortgage-payment-planner-with-pdf-export-html-template/63417247) | Mortgage Payment Planner With PDF Export HTML Template |
-| [Nekopixel](https://codecanyon.net/item/nekopixel-crypto-token-presale-ico-launchpad-html-template/64162730) | Crypto Token Presale & ICO Launchpad HTML Template |
-| [Suppatech](https://codecanyon.net/item/suppatech-it-support-issue-report-form-html-template/64248622) | IT Support Issue Report Form HTML Template |
-| [FotoGrid](https://codecanyon.net/item/fotogrid-photo-grid-collage-builder-with-watermark-html-template/64254980) | Photo Grid & Collage Builder with Watermark HTML Template |
-| [Rabku](https://codecanyon.net/item/rabku-construction-quotation-request-form-html-template/64360636) | Construction Quotation Request Form HTML Template |
-| [CekMobi](https://codecanyon.net/item/cekmobi-digital-vehicle-inspection-checklist-html-template/64361069) | Digital Vehicle Inspection Checklist HTML Template |
+| [Mortexa](...) | Mortgage Payment Planner With PDF Export |
+| [Nekopixel](...) | Crypto Token Presale & ICO Launchpad |
+| [Suppatech](...) | IT Support Issue Report Form |
+| [FotoGrid](...) | Photo Grid & Collage Builder |
+| [Rabku](...) | Construction Quotation Request Form |
+| [CekMobi](...) | Digital Vehicle Inspection Checklist |
 
-### My Open Source Project
+---
+
+## 🌱 Open Source
 
 | Project | Description |
 |---|---|
-| [PZEM-017 DC Energy Monitor with ESP8266 + Blynk](https://github.com/0x1312F59/pzem017-esp8266-blynk) | DC energy monitoring using PZEM-017, ESP8266, and Blynk |
-| [PancakeSwap V2 Price Monitor](https://github.com/0x1312F59/pancakeswap-v2-price-monitor) | PancakeSwap V2 price monitor written in Rust |
+| [PZEM-017 DC Energy Monitor](...) | ESP8266 + PZEM-017 + Blynk |
+| [PancakeSwap V2 Price Monitor](...) | Rust-based on-chain price monitor |
 
-### Contact Me
+---
 
-Feel free to reach out on Telegram: [@u0x1312f59](https://t.me/u0x1312F59)
+## 🤝 Let's Connect
+
+- 💬 Telegram: **[@u0x1312F59](https://t.me/u0x1312F59)**
+- 🌐 CodeCanyon: **https://codecanyon.net/user/0x1312f59**
