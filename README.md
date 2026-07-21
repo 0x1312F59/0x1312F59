@@ -38,5 +38,5 @@
 
 ## 🤝 Let's Connect
 
-- 💬 Telegram: **[@u0x1312F59](https://t.me/u0x1312F59)**
-- 🌐 CodeCanyon: **https://codecanyon.net/user/0x1312f59**
+- Telegram: **[@u0x1312F59](https://t.me/u0x1312F59)**
+- CodeCanyon: **https://codecanyon.net/user/0x1312f59**
