@@ -2,8 +2,6 @@
 
 > Building, experimenting, and shipping products across Web2, Web3, and IoT.
 
-### Tech Stack
-
 <p align="center">
   <img width="48" height="48" title="Python" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" />
   <img width="48" height="48" title="Rust" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" />
